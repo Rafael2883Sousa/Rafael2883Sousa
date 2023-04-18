@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafae Sousa
+- 👋 Hi, I’m Rafael Sousa
 - 👀 I’m a dedicated student of Computing Engenieer.
 - 🌱 I’m currently learning java, javaScipt, HTML & CSS
 - 📫 How to reach me: Rafael Souza(Facebook)
